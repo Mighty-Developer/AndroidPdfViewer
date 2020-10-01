@@ -6,7 +6,7 @@
 
 __AndroidPdfViewer 1.x is available on [AndroidPdfViewerV1](https://github.com/barteksc/AndroidPdfViewerV1)
 repo, where can be developed independently. Version 1.x uses different engine for drawing document on canvas,
-so if you don't like 2.x version, try 1.x.__
+so if you don't like 2.x version, try 1.x.__,3.x is only supported by new android versions.
 
 Library for displaying PDF documents on Android, with `animations`, `gestures`, `zoom` and `double tap` support.
 It is based on [PdfiumAndroid](https://github.com/barteksc/PdfiumAndroid) for decoding PDF files. Works on API 11 (Android 3.0) and higher.
